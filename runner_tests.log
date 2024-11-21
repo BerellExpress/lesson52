@@ -1,0 +1,166 @@
+2024-11-21 22:12:49,669 | WARNING | Неверный тип данных для объекта Runner
+Traceback (most recent call last):
+  File "D:\PythonProjects\lesson51\RunnerTest.py", line 26, in test_run
+    self.assertEqual(runner.distance, 100)
+  File "C:\Users\HYPERPC\AppData\Local\Programs\Python\Python312\Lib\unittest\case.py", line 885, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\HYPERPC\AppData\Local\Programs\Python\Python312\Lib\unittest\case.py", line 878, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 10 != 100
+2024-11-21 22:12:49,679 | WARNING | Неверный тип данных для объекта Runner
+Traceback (most recent call last):
+  File "D:\PythonProjects\lesson51\RunnerTest.py", line 26, in test_run
+    self.assertEqual(runner.distance, 100)
+  File "C:\Users\HYPERPC\AppData\Local\Programs\Python\Python312\Lib\unittest\case.py", line 885, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\HYPERPC\AppData\Local\Programs\Python\Python312\Lib\unittest\case.py", line 878, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 20 != 100
+2024-11-21 22:12:49,679 | WARNING | Неверный тип данных для объекта Runner
+Traceback (most recent call last):
+  File "D:\PythonProjects\lesson51\RunnerTest.py", line 26, in test_run
+    self.assertEqual(runner.distance, 100)
+  File "C:\Users\HYPERPC\AppData\Local\Programs\Python\Python312\Lib\unittest\case.py", line 885, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\HYPERPC\AppData\Local\Programs\Python\Python312\Lib\unittest\case.py", line 878, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 30 != 100
+2024-11-21 22:12:49,680 | WARNING | Неверный тип данных для объекта Runner
+Traceback (most recent call last):
+  File "D:\PythonProjects\lesson51\RunnerTest.py", line 26, in test_run
+    self.assertEqual(runner.distance, 100)
+  File "C:\Users\HYPERPC\AppData\Local\Programs\Python\Python312\Lib\unittest\case.py", line 885, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\HYPERPC\AppData\Local\Programs\Python\Python312\Lib\unittest\case.py", line 878, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 40 != 100
+2024-11-21 22:12:49,680 | WARNING | Неверный тип данных для объекта Runner
+Traceback (most recent call last):
+  File "D:\PythonProjects\lesson51\RunnerTest.py", line 26, in test_run
+    self.assertEqual(runner.distance, 100)
+  File "C:\Users\HYPERPC\AppData\Local\Programs\Python\Python312\Lib\unittest\case.py", line 885, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\HYPERPC\AppData\Local\Programs\Python\Python312\Lib\unittest\case.py", line 878, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 50 != 100
+2024-11-21 22:12:49,680 | WARNING | Неверный тип данных для объекта Runner
+Traceback (most recent call last):
+  File "D:\PythonProjects\lesson51\RunnerTest.py", line 26, in test_run
+    self.assertEqual(runner.distance, 100)
+  File "C:\Users\HYPERPC\AppData\Local\Programs\Python\Python312\Lib\unittest\case.py", line 885, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\HYPERPC\AppData\Local\Programs\Python\Python312\Lib\unittest\case.py", line 878, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 60 != 100
+2024-11-21 22:12:49,681 | WARNING | Неверный тип данных для объекта Runner
+Traceback (most recent call last):
+  File "D:\PythonProjects\lesson51\RunnerTest.py", line 26, in test_run
+    self.assertEqual(runner.distance, 100)
+  File "C:\Users\HYPERPC\AppData\Local\Programs\Python\Python312\Lib\unittest\case.py", line 885, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\HYPERPC\AppData\Local\Programs\Python\Python312\Lib\unittest\case.py", line 878, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 70 != 100
+2024-11-21 22:12:49,681 | WARNING | Неверный тип данных для объекта Runner
+Traceback (most recent call last):
+  File "D:\PythonProjects\lesson51\RunnerTest.py", line 26, in test_run
+    self.assertEqual(runner.distance, 100)
+  File "C:\Users\HYPERPC\AppData\Local\Programs\Python\Python312\Lib\unittest\case.py", line 885, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\HYPERPC\AppData\Local\Programs\Python\Python312\Lib\unittest\case.py", line 878, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 80 != 100
+2024-11-21 22:12:49,681 | WARNING | Неверный тип данных для объекта Runner
+Traceback (most recent call last):
+  File "D:\PythonProjects\lesson51\RunnerTest.py", line 26, in test_run
+    self.assertEqual(runner.distance, 100)
+  File "C:\Users\HYPERPC\AppData\Local\Programs\Python\Python312\Lib\unittest\case.py", line 885, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\HYPERPC\AppData\Local\Programs\Python\Python312\Lib\unittest\case.py", line 878, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 90 != 100
+2024-11-21 22:12:49,682 | INFO | "test_run" выполнен успешно
+NoneType: None
+2024-11-21 22:12:49,682 | WARNING | Неверная скорость для Runner
+Traceback (most recent call last):
+  File "D:\PythonProjects\lesson51\RunnerTest.py", line 15, in test_walk
+    self.assertEqual(runner.distance, 50)
+  File "C:\Users\HYPERPC\AppData\Local\Programs\Python\Python312\Lib\unittest\case.py", line 885, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\HYPERPC\AppData\Local\Programs\Python\Python312\Lib\unittest\case.py", line 878, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 5 != 50
+2024-11-21 22:12:49,682 | WARNING | Неверная скорость для Runner
+Traceback (most recent call last):
+  File "D:\PythonProjects\lesson51\RunnerTest.py", line 15, in test_walk
+    self.assertEqual(runner.distance, 50)
+  File "C:\Users\HYPERPC\AppData\Local\Programs\Python\Python312\Lib\unittest\case.py", line 885, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\HYPERPC\AppData\Local\Programs\Python\Python312\Lib\unittest\case.py", line 878, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 10 != 50
+2024-11-21 22:12:49,683 | WARNING | Неверная скорость для Runner
+Traceback (most recent call last):
+  File "D:\PythonProjects\lesson51\RunnerTest.py", line 15, in test_walk
+    self.assertEqual(runner.distance, 50)
+  File "C:\Users\HYPERPC\AppData\Local\Programs\Python\Python312\Lib\unittest\case.py", line 885, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\HYPERPC\AppData\Local\Programs\Python\Python312\Lib\unittest\case.py", line 878, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 15 != 50
+2024-11-21 22:12:49,683 | WARNING | Неверная скорость для Runner
+Traceback (most recent call last):
+  File "D:\PythonProjects\lesson51\RunnerTest.py", line 15, in test_walk
+    self.assertEqual(runner.distance, 50)
+  File "C:\Users\HYPERPC\AppData\Local\Programs\Python\Python312\Lib\unittest\case.py", line 885, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\HYPERPC\AppData\Local\Programs\Python\Python312\Lib\unittest\case.py", line 878, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 20 != 50
+2024-11-21 22:12:49,683 | WARNING | Неверная скорость для Runner
+Traceback (most recent call last):
+  File "D:\PythonProjects\lesson51\RunnerTest.py", line 15, in test_walk
+    self.assertEqual(runner.distance, 50)
+  File "C:\Users\HYPERPC\AppData\Local\Programs\Python\Python312\Lib\unittest\case.py", line 885, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\HYPERPC\AppData\Local\Programs\Python\Python312\Lib\unittest\case.py", line 878, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 25 != 50
+2024-11-21 22:12:49,684 | WARNING | Неверная скорость для Runner
+Traceback (most recent call last):
+  File "D:\PythonProjects\lesson51\RunnerTest.py", line 15, in test_walk
+    self.assertEqual(runner.distance, 50)
+  File "C:\Users\HYPERPC\AppData\Local\Programs\Python\Python312\Lib\unittest\case.py", line 885, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\HYPERPC\AppData\Local\Programs\Python\Python312\Lib\unittest\case.py", line 878, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 30 != 50
+2024-11-21 22:12:49,684 | WARNING | Неверная скорость для Runner
+Traceback (most recent call last):
+  File "D:\PythonProjects\lesson51\RunnerTest.py", line 15, in test_walk
+    self.assertEqual(runner.distance, 50)
+  File "C:\Users\HYPERPC\AppData\Local\Programs\Python\Python312\Lib\unittest\case.py", line 885, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\HYPERPC\AppData\Local\Programs\Python\Python312\Lib\unittest\case.py", line 878, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 35 != 50
+2024-11-21 22:12:49,684 | WARNING | Неверная скорость для Runner
+Traceback (most recent call last):
+  File "D:\PythonProjects\lesson51\RunnerTest.py", line 15, in test_walk
+    self.assertEqual(runner.distance, 50)
+  File "C:\Users\HYPERPC\AppData\Local\Programs\Python\Python312\Lib\unittest\case.py", line 885, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\HYPERPC\AppData\Local\Programs\Python\Python312\Lib\unittest\case.py", line 878, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 40 != 50
+2024-11-21 22:12:49,685 | WARNING | Неверная скорость для Runner
+Traceback (most recent call last):
+  File "D:\PythonProjects\lesson51\RunnerTest.py", line 15, in test_walk
+    self.assertEqual(runner.distance, 50)
+  File "C:\Users\HYPERPC\AppData\Local\Programs\Python\Python312\Lib\unittest\case.py", line 885, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\HYPERPC\AppData\Local\Programs\Python\Python312\Lib\unittest\case.py", line 878, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 45 != 50
+2024-11-21 22:12:49,685 | INFO | "test_walk" выполнен успешно
+NoneType: None
